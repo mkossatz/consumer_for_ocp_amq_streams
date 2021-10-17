@@ -1,0 +1,1 @@
+# consumer_for_ocp_amq_streams
